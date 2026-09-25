@@ -1,7 +1,7 @@
 # Estudo de Caso Cyclistic: Análise da Utilização das Bicicletas Partilhadas
 
 ## 📌 Visão Geral do Projeto
-A **Cyclistic** é uma empresa fictícia de partilha de bicicletas em Chicago. O objetivo deste estudo de caso é compreender como os utilizadores **membros anuais** e os utilizadores **casuais** utilizam o serviço de forma diferente. 
+A **Cyclistic** é uma empresa fictícia de partilha de bicicletas em Chicago. O objetivo deste estudo de caso é compreender como os utilizadores **membros anuais** e os utilizadores **casuais**(passes de viagem única ou para o dia inteiro) utilizam o serviço de forma diferente. 
 
 A partir destas descobertas, a equipa de marketing visa criar estratégias focadas em **converter utilizadores casuais em membros anuais**.
 
